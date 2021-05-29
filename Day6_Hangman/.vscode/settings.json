@@ -1,0 +1,3 @@
+{
+    "python.analysis.extraPaths": ["./sources/hangman_art.py"]
+}
